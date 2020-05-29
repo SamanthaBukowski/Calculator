@@ -1,0 +1,9 @@
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\slurp\OneDrive\Desktop\Src\unit_test_practice\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
